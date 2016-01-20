@@ -5,8 +5,10 @@ moduleForModel('post', 'Unit | Model | post', {
   needs: []
 });
 
-test('it exists', function(assert) {
+test('it exists', function (assert) {
   var model = this.subject();
-  // var store = this.store();
+  //var store = this.store();
+  //var post = store.find("post");
+  console.log("nag ", JSON.stringify(model));
   assert.ok(!!model);
 });

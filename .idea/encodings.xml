@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/adapters/application.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/controllers/asset/assign/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/controllers/asset/import/capture.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/controllers/asset/import/review/set.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/controllers/products/detail.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/initializers/global.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/mirage/factories/contact.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/mirage/scenarios/default.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/models/training/record.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/routes/asset/assign/summary.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/routes/asset/import/review/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/routes/asset/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/routes/inspections/detail/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/routes/inspections/update.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/routes/organizations/new.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/routes/products/detail/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/routes/training/record.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/routes/workforce/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/-login.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/asset/-asset-assign-row.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/asset/-asset-form.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/asset/-manage-toolbar.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/asset/assign/index.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/asset/detail.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/asset/import/review/complete.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/asset/index.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/components/asset-assign-row.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/components/asset-form.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/components/training-item.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/dashboard/actionboard.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/inspections/-asset-inspection-item.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/inspections/-bulk-review.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/inspections/-bulk-toolbar.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/inspections/-inspections-navigation.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/inspections/-perform-summary-actions.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/inspections/detail.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/inspections/inspections-header.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/inspections/new.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/organizations/index.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/partials/index-toolbar.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/partials/login.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/partials/suites.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/products/detail/inspection/_form.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/setup/questions.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/svg/clipboard.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/svg/filter.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/svg/honeywell-badge.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/training/record/-record-form.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/training/record/index.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/workforce/-workforce-card.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/workforce/bulk.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/workforce/detail/history.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/app/templates/workforce/detail/inspections.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/config/deploy.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hw/code/12.01.2016/main/config/environment.js" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
