@@ -1,5 +1,4 @@
 import Ember from 'ember';
-import { expect } from 'chai';
 
 import { moduleForModel, test } from 'ember-qunit';
 
@@ -18,6 +17,8 @@ test('it model through store', function (assert) {
   });
 
   console.log("nag store ", JSON.stringify(post));
+  assert.equal(post.get('title'), "My first expense in store");
+  assert.equal(post.get('text'), "34 in store");
   assert.ok(!!store);
 });
 
@@ -28,6 +29,7 @@ test('model through model', function (assert) {
     model.set('text', "34 in model");
   });
   console.log("nag model", JSON.stringify(model));
-  expect(model.title).to.equal("My first expense in model");
+  assert.equal(model.get('title'), "My first expense in model");
+  assert.equal(model.get('text'), "34 in model");
   assert.ok(!!model);
 });
